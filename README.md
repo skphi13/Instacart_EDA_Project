@@ -1,4 +1,4 @@
-# Instacart-Data-Project
+# Instacart-EDA-Project
 For this project, I worked with a dataset from 2017 released by Instacart. Instacart is a grocery delivery platform where customers can order groceries and have it delivered to their homes. I conducted an explorative data analysis on the data and answered informative business questions for the project.
 
 # Datasets Description
